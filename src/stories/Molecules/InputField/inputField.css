@@ -1,0 +1,9 @@
+.input-field {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field .input-form {
+    margin-top: 12px;
+}
+

@@ -1,0 +1,23 @@
+.button-search {
+  font-family: 'Roboto Thin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  border: 0;
+  cursor: pointer;
+  color: white;
+  background-color: #c16001;
+  display: inline-block;
+  line-height: 1;
+}
+
+.button--small {
+  font-size: 12px;
+  padding: 10px 16px;
+}
+.button--medium {
+  font-size: 14px;
+  padding: 11px 20px;
+}
+.button--large {
+  font-size: 16px;
+  padding: 12px 24px;
+}

@@ -1,0 +1,14 @@
+.input-form {
+    font-family: 'Roboto Thin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    background-color: #120000;
+    color: white;
+    font-size: 14px;
+    padding: 12px 10px;
+    text-transform: uppercase;
+    border: 0;
+}
+
+.input-form::placeholder {
+    color: #4f443c;
+}
